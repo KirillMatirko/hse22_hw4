@@ -2,6 +2,15 @@
 
 Ссылка на колаб-ноутбук: https://colab.research.google.com/drive/16zsVOpVMWHPfB7sd005G9CWcvoum60Ux?usp=sharing
 
+Статистика из multiqc:
+
+![](https://github.com/KirillMatirko/hse22_hw3/blob/main/pics/general_statictics.png)
+![](https://github.com/KirillMatirko/hse22_hw3/blob/main/pics/sequence_counts.png)
+![](https://github.com/KirillMatirko/hse22_hw3/blob/main/pics/mean_quality_scores.png)
+![](https://github.com/KirillMatirko/hse22_hw3/blob/main/pics/per_sequence_quality_scores.png)
+![](https://github.com/KirillMatirko/hse22_hw3/blob/main/pics/per_sequence_gc_content.png)
+![](https://github.com/KirillMatirko/hse22_hw3/blob/main/pics/sequence_duplication_levels.png)
+
 Таблица со статистикой:
 
 | ID образца | Тип образца | Общее кол-во исходных чтений | Кол-во и процент успешно откартированных чтений (уникально или нет) | Кол-во и процент уникально откартированных чтений | Общее кол-во чтений, которые попали на гены |
