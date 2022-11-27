@@ -7,10 +7,15 @@
 Статистика из multiqc:
 
 ![](https://github.com/KirillMatirko/hse22_hw4/blob/main/pics/general_statictics.png)
+
 ![](https://github.com/KirillMatirko/hse22_hw4/blob/main/pics/sequence_counts.png)
+
 ![](https://github.com/KirillMatirko/hse22_hw4/blob/main/pics/mean_quality_scores.png)
+
 ![](https://github.com/KirillMatirko/hse22_hw4/blob/main/pics/per_sequence_quality_scores.png)
+
 ![](https://github.com/KirillMatirko/hse22_hw4/blob/main/pics/per_sequence_gc_content.png)
+
 ![](https://github.com/KirillMatirko/hse22_hw4/blob/main/pics/sequence_duplication_levels.png)
 
 Таблица со статистикой:
@@ -27,9 +32,15 @@
 Результаты выполнения бонусной части:
 
 ![](https://github.com/KirillMatirko/hse22_hw4/blob/main/pics/MAplot.png)
+
 ![](https://github.com/KirillMatirko/hse22_hw4/blob/main/pics/heatmap1.png)
+
 ![](https://github.com/KirillMatirko/hse22_hw4/blob/main/pics/heatmap2.png)
+
 ![](https://github.com/KirillMatirko/hse22_hw4/blob/main/pics/gene1.png)
+
 ![](https://github.com/KirillMatirko/hse22_hw4/blob/main/pics/gene2.png)
+
 ![](https://github.com/KirillMatirko/hse22_hw4/blob/main/pics/gene3.png)
+
 ![](https://github.com/KirillMatirko/hse22_hw4/blob/main/pics/gene4.png)
