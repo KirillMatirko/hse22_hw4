@@ -23,3 +23,13 @@
 | SRR3414635 | контроль | 20956475 | 20395865 (97.32%) | 18428317 (87.94%) | 16275997 |
 | SRR3414636 | контроль | 20307147 | 19757059 (97.29%) | 17825380 (87.78%) | 15757580 |
 | SRR3414637 | контроль | 20385570 | 19847291 (97.36%) | 17844858 (87.54%) | 15736978 |
+
+Результаты выполнения бонусной части:
+
+![](https://github.com/KirillMatirko/hse22_hw4/blob/main/pics/MAplot.png)
+![](https://github.com/KirillMatirko/hse22_hw4/blob/main/pics/heatmap1.png)
+![](https://github.com/KirillMatirko/hse22_hw4/blob/main/pics/heatmap2.png)
+![](https://github.com/KirillMatirko/hse22_hw4/blob/main/pics/gene1.png)
+![](https://github.com/KirillMatirko/hse22_hw4/blob/main/pics/gene2.png)
+![](https://github.com/KirillMatirko/hse22_hw4/blob/main/pics/gene3.png)
+![](https://github.com/KirillMatirko/hse22_hw4/blob/main/pics/gene4.png)
