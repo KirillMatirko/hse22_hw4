@@ -1,6 +1,8 @@
 # hse22_hw4
 
-Ссылка на колаб-ноутбук: https://colab.research.google.com/drive/16zsVOpVMWHPfB7sd005G9CWcvoum60Ux?usp=sharing
+Основная частьк: https://colab.research.google.com/drive/16zsVOpVMWHPfB7sd005G9CWcvoum60Ux?usp=sharing
+
+Бонусная часть: https://colab.research.google.com/drive/1vvIR1d4fFEljjL21_evl16mDXdiQPZAK?usp=sharing
 
 Статистика из multiqc:
 
