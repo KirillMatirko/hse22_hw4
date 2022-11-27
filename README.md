@@ -4,12 +4,12 @@
 
 Статистика из multiqc:
 
-![](https://github.com/KirillMatirko/hse22_hw3/blob/main/pics/general_statictics.png)
-![](https://github.com/KirillMatirko/hse22_hw3/blob/main/pics/sequence_counts.png)
-![](https://github.com/KirillMatirko/hse22_hw3/blob/main/pics/mean_quality_scores.png)
-![](https://github.com/KirillMatirko/hse22_hw3/blob/main/pics/per_sequence_quality_scores.png)
-![](https://github.com/KirillMatirko/hse22_hw3/blob/main/pics/per_sequence_gc_content.png)
-![](https://github.com/KirillMatirko/hse22_hw3/blob/main/pics/sequence_duplication_levels.png)
+![](https://github.com/KirillMatirko/hse22_hw4/blob/main/pics/general_statictics.png)
+![](https://github.com/KirillMatirko/hse22_hw4/blob/main/pics/sequence_counts.png)
+![](https://github.com/KirillMatirko/hse22_hw4/blob/main/pics/mean_quality_scores.png)
+![](https://github.com/KirillMatirko/hse22_hw4/blob/main/pics/per_sequence_quality_scores.png)
+![](https://github.com/KirillMatirko/hse22_hw4/blob/main/pics/per_sequence_gc_content.png)
+![](https://github.com/KirillMatirko/hse22_hw4/blob/main/pics/sequence_duplication_levels.png)
 
 Таблица со статистикой:
 
