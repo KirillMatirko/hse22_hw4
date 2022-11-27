@@ -1,6 +1,6 @@
 # hse22_hw4
 
-Основная частьк: https://colab.research.google.com/drive/16zsVOpVMWHPfB7sd005G9CWcvoum60Ux?usp=sharing
+Основная часть: https://colab.research.google.com/drive/16zsVOpVMWHPfB7sd005G9CWcvoum60Ux?usp=sharing
 
 Бонусная часть: https://colab.research.google.com/drive/1vvIR1d4fFEljjL21_evl16mDXdiQPZAK?usp=sharing
 
